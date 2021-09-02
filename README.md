@@ -5,7 +5,8 @@
 
 ## Code and Resources Used 
 **Python Version:** 3.7  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  **Dataset :** glassdoor_jobs.csv
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle     
+**Dataset :** glassdoor_jobs.csv
 
 ## Data Cleaning
 The data from the dataset is cleaned up so that it was usable for our model. I made the following changes and created the following variables:
